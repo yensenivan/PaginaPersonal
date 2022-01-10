@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Michroma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Merriweather:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Merriweather:ital@1&family=Quicksand&display=swap');
+
+.link-cust {
+    font-family: 'Quicksand', sans-serif;
+    color: darkslategray;
+    font-size: 20px;
+}
+a:hover { 
+    color: black !important;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.text-center {
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 105px;
+} 
+.desc-cust {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.cont-cust {
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 1%;
+    margin: 3%;
+}  
+.textcont-cust{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 90px;
+    padding-right: 15%;
+    margin: 1%;
+    margin-left: 18%;
+    
+}
+.text-cust{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 75px;
+    padding-right: 3%;
+    
+}
+
+#portada
+   { 
+    margin: 0px;
+    padding: 0px;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ body {
+     background-color: white;
+ }
+
+
+
+.form-cust {
+    width: 100%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box
+}
+
+.form-boton {
+    width: 55%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 6px 6px;
+    margin: 1px;
+    margin-right: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.link-foot{
+    font-family:'Quicksand', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.circular--portrait {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-inline: 86%;
+  }
+  
+  .circular--portrait img {
+    width: 100%;
+    height: auto;
+  }
+
+.sobremi2{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 20px;
+    margin-inline: 250px;
+}
+
+.botom {
+   margin-left: 32%;
+   padding-right: 32%;
+   padding-block: 6%;
+   padding-block-start: 1%;
+}
+
+.text-bot{
+    font-family:'Quicksand', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 25%;
+}
+
+.datos{
+    font-family:'Merriweather', serif;
+}
+
+.lista{
+    font-family: 'Quicksand', sans-serif;
+}
+
+#formulario{
+    font-size: 18px;
+    text-align: center;
+    width: 110%;
+    padding: 3px;
+    margin-left: 10%;
+    padding-right: 20%;
+    
+}
+
+.formilario-cust{
+    margin-right: 15%;
+}
+.cont-contt{
+    
+    margin-inline: 20%;
+    
+}
+
+div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
